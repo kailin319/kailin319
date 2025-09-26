@@ -1,4 +1,7 @@
-## Hi there 👋
+
+Hi there 👋
+I am Kailin
+Data analyst and UI/UX design lover
 
 <!--
 **kailin319/kailin319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
