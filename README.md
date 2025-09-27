@@ -1,5 +1,5 @@
 ## Kailin is here 👀
-Hi there, I'm a Data Analyst and UI/UX design lover. I post UI challenges on my [PORTFOLIO](https://kailinwang0319.wixsite.com/portfolio). 🌸
+Hi there, I'm a Data Analyst and UI/UX design lover. I post [UI Portfolio](https://kailinwang0319.wixsite.com/portfolio) and [study notes on Medium](https://medium.com/@kuuki555). 🌸
 
 ## Recent Projects
 - [Social Media Addiction Analysis](https://github.com/kailin319/social-media-addiction-analysis): SQL, Tableau
